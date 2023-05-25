@@ -13,6 +13,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## PROCEDURE:
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
+## EXPERIMENT:
+![output](op2.jpeg)
+
 ## PROGRAM:
 ```
 NAME : PAARKAVY B
@@ -53,9 +56,6 @@ else:
 print("--------------------------------------------------------------")
 
 ```
-
-## EXPERIMENT:
-![output](op2.jpeg)
 
 ## OUTPUT:
 ![output](op1.png)
