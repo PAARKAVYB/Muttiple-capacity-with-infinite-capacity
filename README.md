@@ -1,12 +1,12 @@
 ## MULTIPLE SERVER WITH INFINITE CAPACITY - (M/M/c):(oo/FIFO)
 ## AIM:
-To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follow poisson process with the mean interval time 10 seconds, serivice time of two lathe machine follow exponential distribution with mean serice time 1 second and average service time of robot is 7seconds.
+To find (a) average number of materials in the system (b) average number of materials in the conveyor (c) waiting time of each material in the system (d) waiting time of each material in the conveyor, if the arrival  of materials follows Poisson process with the mean interval time 10 seconds, service time of two lathe machine follow exponential distribution with mean service time 1 second and average service time of robot is 7seconds.
 
 ## SOFTWARE REQUIRED:
 Visual components and Python
 
 ## THEORY:
-Queuing are the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
+Queuing is the most frequently encountered problems in everyday life. For example, queue at a cafeteria, library, bank, etc. Common to all of these cases are the arrivals of objects requiring service and the attendant delays when the service mechanism is busy. Waiting lines cannot be eliminated completely, but suitable techniques can be used to reduce the waiting time of an object in the system. A long waiting line may result in loss of customers to an organization. Waiting time can be reduced by providing additional service facilities, but it may result in an increase in the idle time of the service mechanism.
 
 ![image](https://user-images.githubusercontent.com/103921593/203238035-1c8109bc-cbf2-4c77-baea-c5b682a752ef.png)
 
@@ -63,5 +63,5 @@ print("--------------------------------------------------------------")
 ![output](op1.png)
 
 ## RESULT:
-Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully. 
+Thus, the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully. 
 
